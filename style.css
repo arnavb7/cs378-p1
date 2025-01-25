@@ -47,7 +47,7 @@ body {
 .add-button {
     border-radius: 25px;
     padding: 8px 25px;
-    background-color: gray;
+    background-color: dimgray;
     color: black;
     border: none;
 }
