@@ -1,3 +1,42 @@
 body {
-    color: hotpink;
+    color: black;
+}
+
+.logo {
+    max-width: 200px;
+    margin-bottom: 20px;
+}
+
+.tagline {
+    color: #f5945c;
+    margin-bottom: 30px;
+}
+
+.menu-item {
+    text-align: center;
+    padding: 15px;
+    height: 400px;
+    width: 300px;
+    margin: 0 auto 30px auto;
+}
+
+.food-img {
+    width: 250px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.description {
+    font-weight: normal;
+    margin: 10px 0;
+}
+
+.add-button {
+    border-radius: 25px;
+    padding: 8px 25px;
+    background-color: white;
+    color: white;
+    border: none;
 }
