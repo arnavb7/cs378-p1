@@ -3,8 +3,15 @@ body {
 }
 
 .logo {
-    max-width: 200px;
+    width: 100vw;
+    height: auto;
+    max-width: 400px;
     margin-bottom: 20px;
+}
+
+.container {
+    padding: 20px 0px;
+    overflow-x: hidden;
 }
 
 .tagline {
@@ -21,7 +28,7 @@ body {
 }
 
 .food-img {
-    width: 250px;
+    width: 300  px;
     height: 200px;
     object-fit: cover;
     border-radius: 10px;
